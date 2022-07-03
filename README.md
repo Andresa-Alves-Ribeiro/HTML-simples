@@ -6,19 +6,7 @@
 
 ## :information_source: Sobre
 
-Criando um site de compras com HTML simples.
-
-Nesse projeto, foi abordado o conceito sobre HTML.
-
-
-## :interrobang: Motivo
-
-O projeto faz parte do curso Devmedia.
-
-
-## :seedling: Requisitos Mínimos
-
-Navegador Web
+Uma página no formato One Page, criada para solidificação dos conhecimentos em HTML. Projeto desenvolvido durante o curso da plataforma Devmedia em Março/2022.
 
 
 ## :rocket: Tecnologias Utilizadas 
