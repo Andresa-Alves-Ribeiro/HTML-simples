@@ -19,5 +19,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :computer: Acesso ao site
 
 Você pode acessar o site através [desse link](https://html-simples.vercel.app/)
-
-
